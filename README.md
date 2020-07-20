@@ -1,6 +1,3 @@
-# 🌟 01/04/2020 Announcement 🌟
-This is a very special day for us, we are listed on Product Hunt !  
-[Take a break to send your feedback and rate us 🙏🏻](https://www.producthunt.com/posts/react-ultimate-resume) 
 
 <p align="center">
   <img src="https://cdn.filestackcontent.com/compress/fyFHRMfCRL2xhwCVtx0F" width="400" />
@@ -157,29 +154,6 @@ The resume is currently available in English and in French. Feel free to contrib
 
 https://web-develop.me/ - by [@liorchalma](https://github.com/liorchamla)
 
-### Contributors
-This project exists thanks to all the people who contribute.
-<table>
-  <tr>
-<td align="center"><a href="https://github.com/thomasgrivet"><img src="https://avatars.githubusercontent.com/u/18561703?v=3" width="100px;" alt=""/><br /><sub><b>Thomas Grivet</b></sub></a><br /></td>
-<td align="center"><a href="https://github.com/clementdevos"><img src="https://avatars.githubusercontent.com/u/5870982?v=3" width="100px;" alt=""/><br /><sub><b>Clément Devos</b></sub></a><br /></td>
-<td align="center"><a href="https://github.com/VincentCtr"><img src="https://avatars.githubusercontent.com/u/9655206?v=3" width="100px;" alt=""/><br /><sub><b>Vincent Cotro</b></sub></a><br /></td>
-<td align="center"><a href="https://github.com/catrx"><img src="https://avatars.githubusercontent.com/u/6273310?v=3" width="100px;" alt=""/><br /><sub><b>Antonin Catrix</b></sub></a><br /></td>
-  </tr>
- </table>
-
-Chat with us on [Discord](https://discord.gg/udbbbAq) !
-
-
  ### License
 
 react-ultimate-resume is relased under [GNU AGPL v3 license](https://github.com/welovedevs/developer-profile/blob/master/LICENSE.md)
-
-
-
-## About WeLoveDevs.com
-WeLoveDevs.com is a website crafted for developers (by Developers) looking for new career opportunities.
-More than 1700 companies use WeLoveDevs.com to find their talents.
-Discover your next company [here](https://welovedevs.com/app/companies)
-# webappCV
-# webappCV
